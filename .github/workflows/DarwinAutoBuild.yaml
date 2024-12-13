@@ -1,4 +1,4 @@
-name: Darwin Auto Build
+name: Darwin Auto Buildf
 
 on:
   push:
